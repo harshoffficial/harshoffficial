@@ -1,9 +1,18 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
+<p> My name is Harsh and I'm a Android developer</p>
+
+## About me
+
+- ✨ Creating bugs since 2019
+- 📚 I'm currently learning kotlin for advance app development
+- 🎯 Goals: live in a cold place ❄ peacefully
+- 🎨 And ... I draw and play ♟ chess online
 
 
 ###
 
+## I code with
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
   <img width="12" />
